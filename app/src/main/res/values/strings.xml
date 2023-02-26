@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="error_cannot_load_weather_from_api">Error: Cannot load weather data from API</string>
+    <string name="error_cannot_load_weather_from_db">Error: Cannot load weather from Database</string>
+    <string name="location_permission_is_required_to_use_this_app">Can\'t detect last saved device location.
+        Using Los Angeles, Mountain View.</string>
+</resources>
