@@ -7,12 +7,6 @@
 - Offline mode
 - Basic error handling
 
-## 🖥️ Screens
-
-Weather screen             |  Search screen
-:-------------------------:|:-------------------------:
-![Weather screen](https://drive.google.com/uc?id=1nFh5fzw2aNI55T_tL0ZOgvzznb3cCDk6) | ![Search screen](https://drive.google.com/uc?id=1sRGIur1aK1jCuu_WxZlnR-Z_gQSRRzfE)
-
 ## 🛠 Tech Stack
 
 - Kotlin
@@ -27,6 +21,17 @@ Weather screen             |  Search screen
 - Gson
 - Hilt
 
-## 🎥 Demo Videos
+## 🖥️ Screens
 
-Some quick demo videos can be found [here](https://drive.google.com/drive/folders/1IIcEwwLiN6-TQ_W1iTDLuwPO6-mVEpYF?usp=sharing)
+
+| Weather Screen                                                                          | Search Screen                                                                           |
+|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| <img src ="https://github.com/appdevv/assets/blob/main/main-screen.png" width=400> | <img src ="https://github.com/appdevv/assets/blob/main/search-screen.png" width=400> |
+
+First launch (Accepted permissions)             |  First launch (Declined permissions)
+:-------------------------:|:-------------------------:
+![Accepted permissions](https://github.com/appdevv/assets/blob/main/first-launch-loc-permission-accepted.gif) | ![Declined permissions](https://github.com/appdevv/assets/blob/main/first-launch-declined-permissions.gif)
+
+Search screen             |  Offline mode
+:-------------------------:|:-------------------------:
+![Search screen](https://github.com/appdevv/assets/blob/main/search.gif) | ![Offline mode](https://github.com/appdevv/assets/blob/main/offline-mode.gif)
